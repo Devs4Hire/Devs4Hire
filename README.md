@@ -7,7 +7,7 @@
 
 - 🔭 We’re currently working on **Medi Konnect**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Devs4Hire?tab=repositories](https://github.com/Devs4Hire?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/Devs4Hire?tab=repositories)
 
 - 📫 How to reach me **devs4hirejaipur@gmail.com**
 
